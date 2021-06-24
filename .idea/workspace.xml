@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cf2f4eb-57a4-43e7-b889-208f820f6c89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure-algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/datastructure-algorithm" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/datastructure-algorithm/com" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/datastructure-algorithm/com/example" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/datastructure-algorithm/com/example/demo" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/datastructure-algorithm/com/example/demo/array" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/datastructure-algorithm/com/example/demo/array/DuplicateNumberInArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/datastructure-algorithm/com/example/demo/array/MinMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/datastructure-algorithm/com/example/demo/array/PairSumArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/datastructure-algorithm/com/example/demo/array/ReverseNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/datastructure-algorithm/com/example/demo/array/SecondMaxElementArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/datastructure-algorithm/com/example/demo/array/SecondMaxElementArray2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/com" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/com/example" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo/array" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo/array/DuplicateNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo/array/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo/array/PairSumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo/array/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo/array/SecondMaxElementArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo/array/SecondMaxElementArray2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1uNaHiqRTLuChJn66dPVhsVkUqp" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.array.MinMax" />
+      <module name="datastructure-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MinMax" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" myAutoUpdateAfterCommit="true" cleanupOnStartRun="true">
+    <configuration>C:\Users\smonda5p\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="FORCE_UPDATE" value="true" />
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\smonda5p\LabWorkspace\datastructure-algorithm" />
+          <option name="myCopyRoot" value="C:\Users\smonda5p\LabWorkspace\datastructure-algorithm" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\smonda5p\LabWorkspace\datastructure-algorithm" />
+          <option name="myCopyRoot" value="C:\Users\smonda5p\LabWorkspace\datastructure-algorithm" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cf2f4eb-57a4-43e7-b889-208f820f6c89" name="Default Changelist" comment="" />
+      <created>1624508414743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624508414743</updated>
+      <workItem from="1624508419408" duration="869000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="197" y="0" key="CommitChangelistDialog2" timestamp="1624509146127">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="197" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1624509146127" />
+    <state width="1237" height="143" key="GridCell.Tab.0.bottom" timestamp="1624509161001">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="143" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1624509161001" />
+    <state width="1237" height="143" key="GridCell.Tab.0.center" timestamp="1624509161001">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="143" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1624509161001" />
+    <state width="1237" height="143" key="GridCell.Tab.0.left" timestamp="1624509161001">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="143" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1624509161001" />
+    <state width="1237" height="143" key="GridCell.Tab.0.right" timestamp="1624509161001">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="143" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1624509161001" />
+    <state x="492" y="191" key="Subversion.BranchConfigurationDialog" timestamp="1624509321225">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="492" y="191" key="Subversion.BranchConfigurationDialog/0.0.1280.680@0.0.1280.680" timestamp="1624509321225" />
+    <state x="459" y="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624509122358">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="459" y="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1624509122358" />
+    <state x="453" y="242" key="svn.passwordDialog" timestamp="1624508470966">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="453" y="242" key="svn.passwordDialog/0.0.1280.680@0.0.1280.680" timestamp="1624508470966" />
+    <state x="480" y="0" key="svn.repositoryBrowser" timestamp="1624509320087">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="480" y="0" key="svn.repositoryBrowser/0.0.1280.680@0.0.1280.680" timestamp="1624509320087" />
+  </component>
+</project>
